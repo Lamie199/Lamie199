@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lamie199
 - 👀 I’m interested in data analysis, process improvement, Customer Services, and tech innovations.
-- 🌱 I’m currently learning SQL for data analysis, Excel, learning about virtual assistant tools."
+- 🌱 I’m currently learning SQL for data analysis, Power Bi Excel, learning about virtual assistant tools."
 - 💞️ I’m looking to collaborate on open-source data projects, process improvement initiatives, and customer support tools.
 - 📫 How to reach me olamideadefolaju09@gmail.com, www.linkedin.com/in/olamide-adefolaju-139a17258
 - 😄 Pronouns: She/her
